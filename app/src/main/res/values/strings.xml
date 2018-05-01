@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> Android Quiz</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log in</string>
+    <string name="for_sign_up">For Sign Up :</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
